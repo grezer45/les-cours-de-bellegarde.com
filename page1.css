@@ -1,0 +1,17 @@
+body{
+	background-color:black;
+}
+
+ img{
+ 	position: absolute;
+   left: 500px;
+   top: 100px; 
+   size: 17px;
+ }
+ h1{
+  position: absolute;
+  left: 350px;
+ color: white;
+ }
+
+
